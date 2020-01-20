@@ -666,7 +666,7 @@ input[type=submit] {
  @media (max-width: 768px) {
 
     body {
-        width: 80vh;
+        width: 60vh;
     }
 
     .hideme {
@@ -690,6 +690,24 @@ input[type=submit] {
 
     .projectOneWrapper, .projectTwoWrapper {
         /* width: 100vh; */
+    }
+
+    .skills {
+        margin-top: 6rem;
+        position: relative;
+    }
+
+    .landingWrapper {
+        position: relative;
+    }
+
+    .backgroundImage {
+        opacity: 0.5;
+    }
+
+    .landingL p {
+        font-size: 13px;
+        line-height: 2rem;
     }
 
  }
