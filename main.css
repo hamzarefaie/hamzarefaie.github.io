@@ -480,6 +480,41 @@ div .websiteButton {
 
 /* Other Projects */
 
+.otherLinks {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10rem;
+    font-size: 19px;
+}
+
+.otherLinks ul, .otherLinks a {
+    list-style-type: none;
+    text-decoration: none;
+    color: #000;
+    font-weight: 200;
+    padding-bottom: 9px;
+    position: relative;
+    display: inline;
+}
+
+.otherLinks a {
+    color: #000
+}
+
+.otherLinks li {
+    color: rgb(59, 128, 230);
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 2rem;
+}
+
+.otherlinksHeader {
+    font-weight: 700;
+    margin-bottom: 2rem;
+    font-size: 26px;
+}
+
 .otherProjects {
     width: 70%;
     margin: auto;
